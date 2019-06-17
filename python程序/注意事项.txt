@@ -1,0 +1,2 @@
+运行主程序请用pip安装numpy，re，tkinter，matplotlib，PIL等一些需要的模块
+请不要更改主程序内容！需要更改复制到自己的电脑
